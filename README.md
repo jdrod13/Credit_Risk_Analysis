@@ -5,12 +5,19 @@ Machine learning models to predict credit risk using Python's imbalanced-learn a
 **On this project,  we focus on working with machine learning models to analyze credit risk to provide an efficient and more reliable loan experience process. Using these models, We took an adequate amount of time to identify promising loans candidates, which could help different financial institutions to decrease their loan default rates.**
 
 Resources
+
 •	Software used:
-o	Python
-o	Jupyter Notebook
-o	NumPy, sci-kit-learn, and imbalanced-learn libraries
-o	Logistic Regression and Random Forest models
-o	Ensemble and resampling techniques
+
+•	Python
+
+•	Jupyter Notebook
+
+•	NumPy, sci-kit-learn, and imbalanced-learn libraries
+
+•	Logistic Regression and Random Forest models
+
+
+•	Ensemble and resampling techniques
 
 
 ### Results
